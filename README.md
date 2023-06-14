@@ -6,7 +6,8 @@
 5. For verification users once register themselves with email and password. With mongoose I stored their email and password locally with the help of local database Mongodb as any external service is not allowed to use. After than when user login it can verify with that stored data
 6. Implemented all the given functionalities.
 7. Codes are crips and onto the point with clear understanding.
-8. I’m good to go as a frontend developer, i have a lot of experience with react and its hooks. 
+8. I have thoroughly tested the code and ensured that it meets the requirements and specifications provided for the assignment. The changes have been reviewed and are ready for submission."
+9. I’m good to go as a frontend developer, i have a lot of experience with react and its hooks. 
 
 
 
